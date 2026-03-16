@@ -20,8 +20,7 @@ Currently working as an **SAP Packaged App Development Analyst at Accenture**, w
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
 </p>
 
-## 🏢 Enterprise / SAP
-
+### 🏢 Enterprise / SAP
 <p>
 <img src="https://img.shields.io/badge/SAP_ABAP-009999?style=flat&logo=sap&logoColor=white"/>
 <img src="https://img.shields.io/badge/SAP_S%2F4HANA-0FAAFF?style=flat&logo=sap&logoColor=white"/>
